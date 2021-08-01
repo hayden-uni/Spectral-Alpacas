@@ -1,45 +1,37 @@
-Spectral by HTML5 UP
+Strongly Typed by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
-and an assortment of pre-styled elements. So, pretty much what you were expecting
--- except, of course, for how it's put together, specifically:
+This is Strongly Typed, a new site template with a minimal, semi-retro
+look (inspired by old instruction manuals) and, as you might guess from its
+name, a strong emphasis on type. It's fully responsive, built on HTML5/CSS3,
+and includes styling for all basic page elements. Demo images* are courtesy of
+regularjane, an incredibly talented photographer friend of mine. Be sure to
+check out more of her work over at deviantART:
 
-- It's built with components from my Responsive Tools project.
+http://regularjane.deviantart.com/
 
-- It uses flexbox, which eliminates all kinds of terrible hacks and clunky layout
-  stopgaps (like CSS grid systems).
+(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
+and/or use any of Jane's work without her explicit permission!)
 
-- It uses Sass* a lot more intelligently, thanks in part to several new mixins
-  and functions I've been working on (as well as a few by @HugoGiraudel).
-
-  (* = still entirely optional if you prefer vanilla CSS :)
-
-- A ton of other stuff.
-
-In short, Spectral's the culmination of several new things I'm working on/trying out,
-so please, let me know what you think :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
+As usual, feedback, bug reports, and comments are not only welcome, but strongly
+encouraged :)
 
 AJ
 aj@lkn.io | @ajlkn
+
+PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
 
 
 Credits:
 
 	Demo Images:
-		Unsplash (unsplash.com)
+		regularjane (regularjane.deviantart.com)
 
 	Icons:
 		Font Awesome (fontawesome.io)
 
 	Other:
 		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
